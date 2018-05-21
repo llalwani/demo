@@ -11,12 +11,14 @@
   "profile": {
     "name": "typicode"
   },
-  "people":{
+  "people":
+  [{
 		"name": "Steven",
 		"destination": "Database Administrator",
 		"pid": 100,
 			"id": 3
-	}, {
+	},
+	{
 		"name": "Jim",
 		"destination": "Designer",
 		"pid": 500,
@@ -36,5 +38,5 @@
 		"destination": "Internet Marketing Engineer",
 		"pid": 1000,
 		"id": 1
-	}
+	}]
 }
